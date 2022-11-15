@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Task6ConstraintL2</string>
+    <string name="contenido">Contenido</string>
+    <string name="fecha">Fecha</string>
+    <string name="asunto">Asunto</string>
+    <string name="estrellita">Estrellita</string>
+    <string name="todo">TODO</string>
+</resources>
